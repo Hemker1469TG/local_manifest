@@ -3,7 +3,7 @@
 
    <remote name="hemker1469"
            fetch="https://github.com/Hemker1469TG/"/>
-   <remote name="komodo"
+   <remote name="applepie"
            fetch="https://github.com/Komodo-OS" />
 
 <!-- Kernels -->
